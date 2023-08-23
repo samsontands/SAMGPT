@@ -14,7 +14,7 @@ st.markdown("<h1 style='text-align: center;'>SAMGPT - your neighborhood bot 😬
 
 # Set org ID and API key
 openai.organization = "org-vs4iRHhDRCSa9U9sW8PEUlSX"
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Initialise session state variables
 if 'generated' not in st.session_state:
