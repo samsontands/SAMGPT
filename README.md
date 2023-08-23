@@ -1,2 +1,2 @@
 # streamlit-chatgpt-ui
-A minimal ChatGPT-like UI built with Streamlit
+An AI created by Samson Tan using Streamlit
