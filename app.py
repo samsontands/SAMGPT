@@ -9,7 +9,7 @@ def message(content, is_user=False, key=None):
         st.markdown(f"<div style='text-align: left;'><div style='display: inline-block; padding: 10px; border-radius: 0px 10px 10px 10px; background-color: #e0e0e0;'>{content}</div></div>", unsafe_allow_html=True)
 
 # Setting page title and header
-st.set_page_config(page_title="AVA", page_icon=":robot_face:")
+st.set_page_config(page_title="SAMGPT", page_icon=":robot_face:")
 st.markdown("<h1 style='text-align: center;'>SAMGPT - your neighborhood bot 😬</h1>", unsafe_allow_html=True)
 
 # Set org ID and API key
