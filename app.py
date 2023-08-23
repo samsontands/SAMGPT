@@ -52,7 +52,7 @@ if clear_button:
     st.session_state['generated'] = []
     st.session_state['past'] = []
     st.session_state['messages'] = [
-        {"role": "system", "content": "You are a helpful assistant."}
+        {"role": "system", "content": "You are a helpful assistant. Your name is SAMGPT"}
     ]
     st.session_state['number_tokens'] = []
     st.session_state['model_name'] = []
