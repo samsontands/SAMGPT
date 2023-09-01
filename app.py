@@ -65,7 +65,7 @@ if authentication_status:
         submit_button = st.form_submit_button(label='Send')
 
     if submit_button and user_input:
-        # Generate a response (your existing code here)
+        pass  # Generate a response (your existing code here)
 
     # Display chat history
     for i in range(len(st.session_state['generated'])):
