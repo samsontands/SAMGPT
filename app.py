@@ -1,4 +1,4 @@
- import openai
+import openai
 import streamlit as st
 
 # Custom message function to create chat-like appearance
